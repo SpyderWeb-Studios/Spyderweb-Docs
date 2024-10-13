@@ -14,8 +14,8 @@ Unlike previous versions where the Stamina, Sprint and Character Movement compon
 
 If you choose not to implement this interface then the previous versions method will work, so this should be backwards compatible.
 
-![](/assets/Stamina/assets/Examples/Interface/CharacterMovement.png)
+![](https://imgur.com/3xcmOko.png)
 
-![](/assets/Stamina/assets/Examples/Interface/SprintComponent.png)
+![](https://imgur.com/X3plYtD.png)
 
-![](/assets/Stamina/assets/Examples/Interface/StaminaComponent.png)
+![](https://imgur.com/xtFxkU5.png)

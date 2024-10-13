@@ -33,13 +33,13 @@ UFUNCTION(BlueprintAuthorityOnly, BlueprintCallable, Category="Stamina|Toggle")
 
 This is also where the Stamina Regenerate variables are stored, so you have a central place to balance these values. The function to regenerate the stamina is also blueprint callable so you can call it wherever you may need to. 
 
-![](/assets/Stamina/assets/Examples/StaminaComponentVariables.png)
+![](https://imgur.com/E6u9yeN.png)
 
 Finally, the final major feature of this component is the ability to calculate if a certain action is viable with the amount of stamina left. This is support you to make your own components that communicate with the `Stamina Component`, such as for heavy attacks or other actions that require the usage of stamina
 
-![](/assets/Stamina/assets/Examples/CanPerformAction.png)
+![](https://imgur.com/q3bcu1P.png)
 
 
 Here is a list of all the available functions for this component
 
-![](/assets/Stamina/assets/Examples/StaminaComponentList.png)
+![](https://imgur.com/zUFfL9p.png)
