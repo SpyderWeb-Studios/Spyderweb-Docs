@@ -1,6 +1,6 @@
 ---
 title: "Interfaces"
-weight: 1
+weight: 3
 bookFlatSection: true
 bookToc: true
 # bookHidden: false
