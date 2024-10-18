@@ -1,6 +1,6 @@
 ---
 title: "Widgets"
-weight: 1
+weight: 4
 bookFlatSection: true
 bookToc: true
 # bookHidden: false

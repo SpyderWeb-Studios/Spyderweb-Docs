@@ -1,6 +1,6 @@
 ---
 title: "Components"
-weight: 1
+weight: 2
 bookFlatSection: true
 bookToc: true
 # bookHidden: false
